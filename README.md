@@ -1,4 +1,8 @@
-# GOOGLE_PROJECT_autocomplete
+# GOOGLE PROJECT: autocomplete sentences 21-23/07/2020
+
+Search and auto-completion for sentences within given input text files
+
+## Description
 
 With the purpose to improve search engine users experience, 
 the development team decided to enable sentences autocomplete from blogs,
@@ -26,5 +30,14 @@ What else? The program forgives user- mistakes;
 forgetting or adding a letter, replacing by another one, etc. The sentence will still appear.
 To achieve that, has been required use of self-product regular expression.
 
-Enjoy it!
+## Team Members
+* Shira Weinstein (Me)
+* Shira Dayan
+* Rivka Shenberger
+
+## Libraries/Technologies Used
+* python 3.7
+
+
+
 
