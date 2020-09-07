@@ -1,6 +1,7 @@
 # GOOGLE PROJECT: autocomplete sentences 21-23/07/2020
 
-Search and auto-completion for sentences within given input text files
+Search and auto-completion for sentences within given input text files. Manipulating the data
+with complex data-structures and algorithmic optimizations using Python and C++.
 
 ## Description
 
