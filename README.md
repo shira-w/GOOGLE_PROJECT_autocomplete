@@ -40,6 +40,7 @@ To achieve that, has been required use of self-product regular expression.
 ## Libraries/Technologies Used
 * python 3.7
 
-
+----------------------------------------------------------------------------------
+do you have some comments, negative or positive review? I would like to hear you: shirawein70@gmail.com
 
 
